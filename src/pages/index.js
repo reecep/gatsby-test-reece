@@ -52,7 +52,7 @@ render={data => (
                     {product.price}€
                   </div>
                 </div>
-                <span className="Product__buy">Buy now</span>
+                <span className="Product__buy">BUY now</span>
               </div>
             </div>
           </div>
